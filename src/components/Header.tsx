@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion'
 import { ShoppingBag } from 'lucide-react'
 
 interface HeaderProps {
